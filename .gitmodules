@@ -1,0 +1,3 @@
+[submodule "apps/flash"]
+	path = apps/flash
+	url = https://github.com/Dark-Matter3/flash.git
